@@ -7,4 +7,7 @@
 
 
 tips:
-上传文件类型支持：pdf、ppt、word   (warning：txt文件不支持)
+上传文件类型支持：pdf、ppt、docx、xlsx、txt
+其中pdf、txt可直接点击查看，其他类型的文件可点击view raw跳转至新窗口进行查看
+因此比较建议将文件转为pdf再进行上传，方便查看
+
